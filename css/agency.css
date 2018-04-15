@@ -18,7 +18,10 @@ a:hover {
 .text-primary {
   color: #fed136 !important;
 }
-
+h8{
+	font-size:40px;
+	color:white;
+}
 h1,
 h2,
 h3,
@@ -691,4 +694,70 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+.social-media a{
+	color:white;
+
+}
+
+.social-media a:hover{
+	color:black;
+	
+}
+
+
+.social-media-fone a{
+	color:white;
+
+}
+
+.social-media-fone a:hover{
+	color:blue;
+	
+	
+}
+/* ==============================social-media============================ */
+.social-media{
+	font-size:30px;
+
+}
+
+
+.social-media a{
+	color:white;
+
+}
+
+.social-media a:hover{
+	color:black;
+	
+}
+
+
+.social-media-fone a{
+	color:white;
+
+}
+
+.social-media-fone a:hover{
+	color:blue;
+	
+	
+}
+
+
+
+.section-heading{
+	margin:20px;
+	padding:20px;
+}
+.pata{
+	text-align:center;
+	background-color:#222222;
+	padding:20px;
+	margin:20px;
+}
+.strip{
+	height:10px;background-color:white;width:100%
 }
