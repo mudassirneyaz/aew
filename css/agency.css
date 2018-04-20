@@ -762,3 +762,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .strip{
 	height:10px;background-color:white;width:100%
 }
+
+.strip1{
+	height:10px;background-color:black;width:100%
+}
